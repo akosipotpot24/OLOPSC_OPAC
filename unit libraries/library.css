@@ -1,0 +1,45 @@
+body {
+    background-color: #ffff;
+    font-family: 'work sans';
+}
+
+div.container {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.header {
+    width: 1385px;
+}
+
+.main {
+    margin-top: 10px;
+    font-size: 45px;
+    text-align: center;
+    background-color: #0A085E;
+    color: #ffff;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    background-color: #0A085E;
+    color:#ffff;
+    padding-left: 15px;
+    font-size: 30px;
+}
+
+.sched {
+    color: #100E5E;
+    font-weight: bold;
+}
+
+.skibidi {
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
